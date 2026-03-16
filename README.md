@@ -41,7 +41,8 @@ switch2.
 
 ### Direct connection: CIRCUIT DIAGRAM: 
 
-<img width="1305" height="626" alt="Screenshot 2026-03-12 113020" src="https://github.com/user-attachments/assets/350a7b7f-c5d3-4df2-8b13-902e5cc5c961" />
+<img width="1104" height="526" alt="Screenshot 2026-03-16 194051" src="https://github.com/user-attachments/assets/b885a854-decb-4309-b571-88983e37429a" />
+
 
 ### Tabulation:1
 
@@ -49,7 +50,8 @@ switch2.
 	
 ### Cross connection: CIRCUIT DIAGRAM:
 
-<img width="1253" height="605" alt="Screenshot 2026-03-12 113156" src="https://github.com/user-attachments/assets/88923206-f991-4ca0-9d02-120ffe3a80e9" />
+<img width="951" height="416" alt="Screenshot 2026-03-16 194109" src="https://github.com/user-attachments/assets/052cb1ae-bd49-4fc6-86e9-58e633d9de25" />
+
 
 ### Tabulation:2
 
