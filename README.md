@@ -46,7 +46,7 @@ switch2.
 
 ### Tabulation:1
 
-
+![image alt](<WhatsApp Image 2026-03-16 at 7.44.45 PM.jpeg>)
 	
 ### Cross connection: CIRCUIT DIAGRAM:
 
@@ -55,7 +55,7 @@ switch2.
 
 ### Tabulation:2
 
-
+![image alt](22.jpeg)
 
 
 ### RESULT:
