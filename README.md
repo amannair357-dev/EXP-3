@@ -45,7 +45,6 @@ switch2.
 
 ### Tabulation:1
 
-<img width="1573" height="715" alt="Screenshot 2026-03-12 113121" src="https://github.com/user-attachments/assets/2c76b84d-1f81-48cb-87e7-be146239af42" />
 
 	
 ### Cross connection: CIRCUIT DIAGRAM:
@@ -54,7 +53,7 @@ switch2.
 
 ### Tabulation:2
 
-<img width="1212" height="737" alt="Screenshot 2026-03-12 113216" src="https://github.com/user-attachments/assets/8bcb1362-e483-4941-a55f-a8a74685c53d" />
+
 
 
 ### RESULT:
